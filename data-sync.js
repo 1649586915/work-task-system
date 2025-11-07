@@ -1,5 +1,5 @@
 ﻿// -------------------------- 配置信息（必须修改！）--------------------------
-const GITHUB_TOKEN = "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"; // 替换成你之前生成的令牌
+const GITHUB_TOKEN = "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"; // 替换成你之前生成的令牌
 const REPO_PATH = "1649586915/work-task-system"; // 替换成你的仓库路径
 // --------------------------------------------------------------------------
 
@@ -100,4 +100,5 @@ window.onload = async () => {
   // if (currentUserData.tasks && typeof renderTasks === "function") {
   //   renderTasks(currentUserData.tasks);
   // }
+
 };
